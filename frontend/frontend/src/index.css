@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apenas fontes e cores globais */
+body {
+  font-family: 'Roboto', sans-serif;
+  @apply bg-gray-50; /* Substitui #f9f9f9 */
+}

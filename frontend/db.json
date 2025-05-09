@@ -1,0 +1,7 @@
+{
+  "tools": [
+    { "id": 1, "name": "Furadeira", "owner": "João", "available": true, "returnDate": "2025-06-01" },
+    { "id": 2, "name": "Martelo", "owner": "Maria", "available": false, "returnDate": "2025-05-15" },
+    { "id": 3, "name": "Chave Inglesa", "owner": "Carlos", "available": true, "returnDate": "2025-06-10" }
+  ]
+}
