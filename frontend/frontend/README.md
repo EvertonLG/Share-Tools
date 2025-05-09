@@ -20,7 +20,7 @@ ShareTools é uma plataforma de compartilhamento de ferramentas entre vizinhos, 
 * Spring Data JPA
 * SQL Server
 * JSON Web Tokens (JWT)
-* REST APIs
+* REST API's
 
 ### Frontend:
 
